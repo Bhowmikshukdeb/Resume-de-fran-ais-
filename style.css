@@ -1,0 +1,252 @@
+
+#photo{
+    width: 130px;
+    height: 130px;
+    border-radius: 100px;
+    margin-left: 100px;
+    margin-top: 10px;
+    float: left;
+}
+#name {
+float: left;
+color: rgb(251, 251, 251);
+margin-left: 100px;
+margin-top: 50px;
+font-size: 40px;
+}
+#Email{
+    margin-left:14px;
+    font-size: 19px;
+    opacity: 1.8; 
+}
+#div1{
+    border:2px solid black;
+    width: 800px;
+    margin-left: 300px;px;
+    height: 1060px;
+}
+#div2{
+    background-color: rgb(4, 4, 96);
+    margin: 0px;
+    padding: 0px;
+    height: 150px;
+}
+#div3{
+    background-color: rgb(207, 207, 205);
+    width: 270px;
+    height: 910px;
+    margin-top: 0px;
+    float: left;
+}
+#h22{
+    margin-left: 48px;
+    font-size: 30px;
+}
+#h34{
+    margin-left: 70px;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+#h33{
+    margin-left: 88px;
+    font-size: 22px;
+    margin-bottom: -2px;
+}
+#com{
+    margin-left: 20px;
+    font-size: 25px;
+}
+#skil{
+    margin-left: 25px;
+    font-size: 20px;
+    font: weight 20px;
+}
+
+#lang{
+    margin-left: 40px;
+    font-size: 25px;
+}
+#lan{
+    margin-left: 50px;
+    font-size: 20px;
+    font: weight 25px;
+
+}
+#p1{
+    margin-left: 20px;
+    font-size: 20px;
+    opacity: 1.8;  
+}
+#phon{
+    margin-left: 50px;
+    font-size: 20px;
+    opacity: 1.8;  
+}
+#label1{
+font-size: 28px;
+font-weight: bold;
+}
+.fa-graduation-cap{
+    font-size:32px;
+    margin-left: 20px;
+}
+#s1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#s2{
+    font-size:18px;
+    margin-left: 80px;
+    font-weight: bold;
+}
+#s3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#s4{
+    font-size: 18px;
+    margin-left: 80px;
+}
+#v1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#v2{
+    font-size:18px;
+    margin-left: 95px;
+    font-weight: bold;
+}
+#v3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#v4{
+    font-size: 18px;
+    margin-left: 40px;
+}
+#d1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#d2{
+    font-size:18px;
+    margin-left: 95px;
+    font-weight: bold;
+}
+#d3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#d4{
+    font-size: 18px;
+    margin-left: 34px;
+}
+#u1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#u2{
+    font-size:18px;
+    margin-left: 95px;
+    font-weight: bold;
+}
+#u3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#u4{
+    font-size: 18px;
+    margin-left: 33px;
+}
+#h1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#h2{
+    font-size:18px;
+    margin-left: 90px;
+    font-weight: bold;
+}
+#h3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#h4{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.fa-briefcase{
+    font-size: 32px;
+    margin-left: 20px;
+}
+#exp{
+    font-size: 28px;
+    font-weight: bold;
+
+}
+
+#o1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#o2{
+    font-size:18px;
+    margin-left: 80px;
+    font-weight: bold;
+}
+#o3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#o4{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#o5{
+    font-size: 18px;
+    margin-left: 195px;
+}
+#c1{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#c2{
+    font-size:17px;
+    margin-left: 90px;
+    font-weight: bold;
+}
+#c3{
+    font-size: 18px;
+    margin-left: 20px;
+}
+#c4{
+    font-size: 18px;
+    margin-left: 28px;
+}
+#c5{
+    font-size: 18px;
+    margin-left: 190px;
+}
+#c6{
+    font-size: 18px;
+    margin-left: 190px;
+}
+.fa-guitar{
+    font-size: 32px;
+    margin-left: 20px; 
+}
+#CENTRES{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#ho{
+    margin-left: 300px;
+    font-size: 20px;
+    margin-bottom: -10px;
+}
+
+body{
+    background-color:whitesmoke;
+}
